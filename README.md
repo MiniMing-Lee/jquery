@@ -1,5 +1,6 @@
 [jQuery](http://jquery.com/) — New Wave JavaScript
 ==================================================
+Master
 
 Contribution Guides
 --------------------------------------
